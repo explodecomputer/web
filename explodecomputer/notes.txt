@@ -1,0 +1,30 @@
+Arjun: Thank you for using One.com 24/7 Interactive Online Support. My name is Arjun. How may I assist you?
+you: hi arjun
+Arjun: Hello
+you: i bought a domain from one.com called explodecomputer.com
+you: i had hosting with one.com also, but this ended, i want to transfer my domain to a digital ocean vps
+you: i have an authID from one.com
+you: would you be able to tell me how to transfer the domain to digital ocean?
+Arjun: Unfortunately, the problem here is that its currently too late to do a transfer, as the domain has entered a redemption period.
+you: what does that mean exactly?
+Arjun: It seems the AUTH ID was sent way back in May.
+you: yeah
+you: so what are my options now? can i still keep the domain? do i own it?
+Arjun: Redemption period is a 30 day period. The domain is restorable in this period by the current registrar only. We restore a domain hosted with us for a fee of 60,00 USD + VAT
+you: so who owns the domain?
+Arjun: You are always the owner, the problem is the state of the domain.
+Arjun: Your options right now are either to restore it for this fee, or allow it to complete the deletion phase of 30 days. But, you would need to monitor when it gets free again:
+Arjun: http://who.is/whois/explodecomputer.com
+Arjun: Once it is free, it shows that it is available for re-registration
+you: ok, so if it gets deleted then i would buy it again?
+Arjun: Yes, that's correct.
+you: so if i pay the fee to restore it then what happens next?
+Arjun: Then it will be restored, at which point a new AUTH ID is sent and it can be transferred away
+Arjun: That is if you want to do this immediately
+you: ok i see
+Arjun: If it is not urgent, I would suggest to let it expire and then simply re-order it.
+you: ok thanks for your advice. when do i expect it to expire?
+Arjun: It has entered redemption on August 4. So, one month from that for redemption to end. There is one final delete phase after that which lasts 5-7 days.
+you: so i should keep checking from 4th september onwards?
+Arjun: Yes
+you: ok. you've been really helpful, thanks for your time

@@ -1,0 +1,174 @@
+/* LAYOUT */
+
+@font-face
+{
+    font-family: "Diavlolight";
+    src: url('DiavloLight-Regular.ttf') format("truetype");
+	//font-family: "Diavlolight", "Arial";
+}
+
+body
+{
+	background-color: #292723;
+	margin: 0px;
+	min-width: 960px;
+	height: 100%;
+	font-family: "Diavlolight", "Arial";
+}
+
+#container
+{
+	float: left;
+	position: absolute;
+	left: 0;
+	margin-top: 0px;
+	width: 920px;
+	height: 100%;
+	background-color: #ffeeee;
+}
+
+#a
+{
+	position: relative;
+	height: auto;
+	margin-bottom: 0px;
+	padding: 36px 80px 0px 50px;
+	background-color: #ffeeee;
+}
+
+#b
+{
+	position: relative;
+//	background-color: #eeeeee;
+	padding: 20px 50px 40px 50px;
+//	-webkit-border-bottom-right-radius: 60px;
+//	-webkit-border-bottom-left-radius: 60px;
+//	margin-top: -26px;
+	background-color: #ffeeee;
+}
+
+#c
+{
+	position: relative;
+	padding: 20px 50px;
+	height: auto;
+	border-top: solid 3px #960f0f;
+	background-color: #ffeeee;
+}	
+
+img.central
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px; /*0.5em*/
+	margin-top: 5px; /*0.5em*/
+	border-style: solid;
+	border-color: grey;
+	border-width: 5px;
+	max-width: 350px;
+	border-opacity: 0.5;
+}
+
+p
+{
+	font-size: 14px;
+	color: #292723;
+	line-height: 20px;
+}
+
+h1
+{
+	color: #292723;
+	font-size: 60px;
+}
+
+a
+{
+	color: #d86519;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+ul, ol
+{
+	padding: 0 50px 0px 50px;
+	font-size: 14px;
+}
+
+li
+{
+	padding-bottom: 6px;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+.date
+{
+	float: right;
+	color: #960f0f;
+	text-align: right;
+}
+
+.tags
+{
+	position: relative;
+	color: #960f0f;
+	text-align: left;
+}
+
+.tags > a
+{
+	color: blue;
+}
+
+pre
+{
+	color: #4B6677;
+	font-size: 12px;
+	padding: 0px 15px;
+	margin: 30px 0px;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-left-style: dotted;
+	border-left-color: #960f0f;
+	border-width: 1px;
+
+	line-height: 20px; /*--Height of each line of code--*/
+	overflow: auto; /*--If the Code exceeds the width, a scrolling is available--*/
+	overflow-Y: hidden;  /*--Hides vertical scroll created by IE--*/
+	overflow-x: auto; /* Use horizontal scroller if needed; for Firefox 2, not needed in Firefox 3 */
+	white-space: pre-wrap; /* css-3 */
+	white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */ /*width: 99%; */
+	word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+code
+{
+	font-size: 13px;
+}
+
+pre code
+{
+	margin: 0px 10px 0px 10px; /*0em 1em 0em 1em*/
+	display: block;
+}
+
+pre.quote
+{
+	font-family: "Diavlolight";
+	font-size: 14px;
+	padding: 0px 15px; /*0.5em*/
+	margin: 0px;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-left-color: #960f0f;
+	border-width: 1px;	
+}
