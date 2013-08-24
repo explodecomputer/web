@@ -1,0 +1,19 @@
+mysql -p --max-allowerd_packet=200M
+
+-- enter password
+
+-- create database
+CREATE database explodecomputer;
+
+-- select database
+USE explodecomputer;
+
+-- read in sql dump
+SOURCE explodecomputer.sql;
+
+-- set permissions for the world to see this database
+GRANT ALL ON *.* to root@'192.241.189.99' IDENTIFIED BY 'Thereisnospoon1';
+FLUSH PRIVILEGES;
+
+
+
